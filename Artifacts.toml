@@ -1,0 +1,236 @@
+[[SBML]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d9aefc44c704a94bc87128929998b71b2f8b7a0c"
+libc = "glibc"
+os = "linux"
+
+    [[SBML.download]]
+    sha256 = "98e92405a90434531317cb1f7d1843252abd582b1b8d879eb2c82bcc8ae6eaa9"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[SBML]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6891022b45ed1c02019283daf4de0b019ba9696e"
+libc = "glibc"
+os = "linux"
+
+    [[SBML.download]]
+    sha256 = "8ae2b1c61ac82e8479b9e8c52983c60be683fb3a257c49cc291e4d8666682014"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[SBML]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7e93f2b70112d02d7ea8900170387ebef013613a"
+libc = "musl"
+os = "linux"
+
+    [[SBML.download]]
+    sha256 = "f925151f1ac1871c7908b46b7abcce9372b71e091ecd17b445467231a1f92ae2"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.aarch64-linux-musl-cxx03.tar.gz"
+[[SBML]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "34f40ca3111d8fde1d52abb0ab5dc0ca1f85cbd1"
+libc = "musl"
+os = "linux"
+
+    [[SBML.download]]
+    sha256 = "97553d4c386ab478c5ee376fb56e69d7c10e6fadce3c84da3d81e02ffb5159e7"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.aarch64-linux-musl-cxx11.tar.gz"
+[[SBML]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4a51d1ac0f26c8de6b82db61d5f94e1815334232"
+libc = "glibc"
+os = "linux"
+
+    [[SBML.download]]
+    sha256 = "34f01ba1a02a1c4e8004d293e63748fcb9785958e95738f836d3d4390078705c"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[SBML]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "509904f16de197a6b4f8c328721bbaab90909735"
+libc = "glibc"
+os = "linux"
+
+    [[SBML.download]]
+    sha256 = "09d9010879095039f9bb314ed09f91e3d9b932db8696ff749e0ea17fb8981993"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[SBML]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "665ba8729f4df5ab00c3a48d95ded563476e2dbf"
+libc = "musl"
+os = "linux"
+
+    [[SBML.download]]
+    sha256 = "474886700fb61d83780d1d83c699bcfc54d5ebad9de4c52535c4b85a48865531"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[SBML]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "021e387d4469198acebc159d2f320bde8bcef794"
+libc = "musl"
+os = "linux"
+
+    [[SBML.download]]
+    sha256 = "caf2db4ac69cc21a2f632b0a61ba43b6db0da2b3415324b4cdf0e0c03ed0633f"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[SBML]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "90d8d144e07c0c3dd6e3fae6ab957e0b9b964e53"
+libc = "glibc"
+os = "linux"
+
+    [[SBML.download]]
+    sha256 = "d0b91009bd8b247e7ec23e3e3bab6c0ac8a1d57b8e464f532267bcdb4d43036d"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.i686-linux-gnu-cxx03.tar.gz"
+[[SBML]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "18ef039fe3cc353c344ec66a16e15a77ebcfff57"
+libc = "glibc"
+os = "linux"
+
+    [[SBML.download]]
+    sha256 = "5c49eccd6be93919064df19bae0edacd3d030c18eb45d0f0c4537b4394653824"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.i686-linux-gnu-cxx11.tar.gz"
+[[SBML]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6f08c734da8d6bb7506b06c3966d46740c49190d"
+libc = "musl"
+os = "linux"
+
+    [[SBML.download]]
+    sha256 = "a0b94a4a16f1ae61c703700454f9805a4eb1150c3c58a91121a8a39be9cbebe2"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.i686-linux-musl-cxx03.tar.gz"
+[[SBML]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6813d6e5238262239a7c8a36426ed2e2744da45e"
+libc = "musl"
+os = "linux"
+
+    [[SBML.download]]
+    sha256 = "38180b10464c8d59e431d50e38dcb0437f4d57b30024ddcf7f0fe9be048d6110"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.i686-linux-musl-cxx11.tar.gz"
+[[SBML]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bc21e4512b8ac3e043c6d16209e545873d928086"
+os = "windows"
+
+    [[SBML.download]]
+    sha256 = "680e5294165ae150bc2ccf383bfcf41938ec1f30acdd3b1fbb96c874ff631874"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.i686-w64-mingw32-cxx03.tar.gz"
+[[SBML]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2f192f1fac04c9e38f6b1f08692e5aac31ead9c6"
+os = "windows"
+
+    [[SBML.download]]
+    sha256 = "3a3dd082820f04573b1e1cf8b20663564d34f4fe7f402cf926eff3fb39b9420e"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.i686-w64-mingw32-cxx11.tar.gz"
+[[SBML]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e017ca42fa49fb4b19f9ca73eef8090736a0d6c0"
+libc = "glibc"
+os = "linux"
+
+    [[SBML.download]]
+    sha256 = "c1eb3eec1010b349a810d344f62567ce1e2bcf2a913d556aee762ec2f85289ce"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[SBML]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8e5c57b865f3ee61a943c3fd4fec3bc0cfe1f6a6"
+libc = "glibc"
+os = "linux"
+
+    [[SBML.download]]
+    sha256 = "70a9bb2f80c6c2a1ee42bb3c610bafca619604176cb735d9dbe888b54fbf1b70"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[SBML]]
+arch = "x86_64"
+git-tree-sha1 = "c31d400a2ced627c0618d8c197238ddc2d03c097"
+os = "macos"
+
+    [[SBML.download]]
+    sha256 = "5267d842bb136f7d9f38e00026ad5fcb993264a6c62f01a7da9ea8a03cd4ae7b"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.x86_64-apple-darwin.tar.gz"
+[[SBML]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "96ad8222c48c8c59201510476d399e6fad38d6e4"
+libc = "glibc"
+os = "linux"
+
+    [[SBML.download]]
+    sha256 = "1ba609c7e06ea5d6be4079a5f8d40b00bac4d0e29d27673b43d813c72696060a"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[SBML]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1e045d987142362cdee92dfcf15e614b0f67d20e"
+libc = "glibc"
+os = "linux"
+
+    [[SBML.download]]
+    sha256 = "42b995fe6bfbbe50e2bf324a534f11ca848dbf4ba6b8ec2b7388e5f4ebfb081b"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[SBML]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e600dc7dffa2fb4a3fcad2ef2274e4d6f431fb2c"
+libc = "musl"
+os = "linux"
+
+    [[SBML.download]]
+    sha256 = "df567423f46723e3ccdab7db05db361b3bf568f8dd2030d824b7b92dd6c95653"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.x86_64-linux-musl-cxx03.tar.gz"
+[[SBML]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7c1806fa6552526ae101f4b668d4704823237c41"
+libc = "musl"
+os = "linux"
+
+    [[SBML.download]]
+    sha256 = "1d3edd81d9b8510588f92ca94239b9f65f93ae71e2b9659cd5ca287d445099ae"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.x86_64-linux-musl-cxx11.tar.gz"
+[[SBML]]
+arch = "x86_64"
+git-tree-sha1 = "f105b09497084ec0ec48614c48694ac76fe088f9"
+os = "freebsd"
+
+    [[SBML.download]]
+    sha256 = "cd3b71dccd3ce1eb1e3a217cb8a096eb12ea86b33de6dd75002185225e7c0f01"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.x86_64-unknown-freebsd.tar.gz"
+[[SBML]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "69f3967a44cfc5986974145764b503dca91a07ba"
+os = "windows"
+
+    [[SBML.download]]
+    sha256 = "a377d59d04268bb0962ef451875bd4b5145ff4b6b5219f164d29deec95ab3470"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[SBML]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cb12817398104ac3934c04957c2a5ee32297f01a"
+os = "windows"
+
+    [[SBML.download]]
+    sha256 = "977be518dd1a1748e677bbf5e428fafb586f512bbdd02ab8812b15adad991209"
+    url = "https://github.com/JuliaBinaryWrappers/SBML_jll.jl/releases/download/SBML-v5.19.0+0/SBML.v5.19.0.x86_64-w64-mingw32-cxx11.tar.gz"
