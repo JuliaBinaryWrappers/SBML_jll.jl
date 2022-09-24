@@ -9,7 +9,7 @@ function __init__()
     JLLWrappers.@generate_init_header(XML2_jll, Zlib_jll)
     JLLWrappers.@init_library_product(
         libsbml,
-        "lib/libsbml.5.19.6.dylib",
+        "lib/libsbml.5.19.7.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
